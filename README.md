@@ -16,7 +16,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Tech used
+## Tech
 * https://mockapi.io/ - is a simple tool that lets you easily mockup APIs, generate custom data, and perform operations on it using RESTful interface.
 * https://serpapi.com/ - scrapes Google and other search engines.
 
